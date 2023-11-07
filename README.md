@@ -1,2 +1,2 @@
-# Portfolio-1
+# portfolio-1
 A quick portfolio/dopefolio made using React
