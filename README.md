@@ -1,6 +1,6 @@
 # portfolio-1
 
-A quick portfolio/dopefolio made using React
+A quick portfolio/dopefolio made using React.
 
 # Getting Started with Create React App
 
